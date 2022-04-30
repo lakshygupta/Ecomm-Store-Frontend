@@ -1,0 +1,1 @@
+export const APIFront= process.env.REACT_APP_FRONTEND;
